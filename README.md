@@ -24,7 +24,7 @@ This project involves exploring and analyzing COVID-19 data using SQL queries. T
 - **Technologies used:** SQL
 - **Key tasks:** Retrieving and ordering COVID-19 death records, analyzing total cases vs. total deaths, comparing total cases to population, summarizing COVID-19 impact by continent, and more.
 
-### 2. Movie Correlation Project
+### 3. Movie Correlation Project
 
 **Folder:** `Movie-Correlation-Project`
 
